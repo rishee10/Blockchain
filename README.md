@@ -68,7 +68,7 @@ getLeaderboard() can be used to view the vote count for all candidates.
 #### Clone this repository:
 
 
-`git clone https://github.com/your-username/BlockchainVotingSystem.git`
+`git clone https://github.com/rishee10/Blockchain/tree/main.git`
 
 #### Deploy and interact with the contract in Remix IDE:
 
